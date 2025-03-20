@@ -1,9 +1,6 @@
 ﻿# Random forest Deployment
 
 
----
-
-# Random Forest Deployment
 
 This project is a complete end-to-end machine learning pipeline built using **FastAPI** and **Streamlit**, containerized with **Docker** and deployed on **Azure Container Apps**.
 
