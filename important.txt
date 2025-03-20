@@ -1,2 +1,0 @@
-docker build -t myregistry870.azurecr.io/newproject-backend:v1 -f backend/Dockerfile.backend .
-docker push myregistry870.azurecr.io/newproject-backend:v1
