@@ -1,7 +1,5 @@
-﻿# random-forest-deployment
- Got it! You want a more **narrative-style README**, explaining the project clearly instead of just listing files.
+﻿# Random forest Deployment
 
-Here’s a suggested version:
 
 ---
 
